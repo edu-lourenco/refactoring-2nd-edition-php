@@ -1,0 +1,9 @@
+version: '3.5'
+
+services:
+  php:
+    container_name: phpunit-testes
+    image: php81
+    build: ./
+    volumes:
+      - ./:/var/www/html
