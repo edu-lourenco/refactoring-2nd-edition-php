@@ -21,9 +21,9 @@ aperfeiçoar o design.
 
 ## O que este livro contém?
 
-Capítulo 1 - Exemplo simples para entender a refatoração.
-Capítulo 2 - Princípios gerais da refatoração e definições.
-Capítulo 3 - “Maus cheiros” (bad smells) no código e como eliminar.
-Capítulo 4 - Testes.
-Capítulo 5 em diante - Catálogo de refatorações separados em detalhe.
+ * Capítulo 1 - Exemplo simples para entender a refatoração.
+ * Capítulo 2 - Princípios gerais da refatoração e definições.
+ * Capítulo 3 - “Maus cheiros” (bad smells) no código e como eliminar.
+ * Capítulo 4 - Testes.
+ * Capítulo 5 em diante - Catálogo de refatorações separados em detalhe.
 
